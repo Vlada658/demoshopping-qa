@@ -124,7 +124,3 @@ Junior QA Engineer.
 
 ---
 
-# Контакты
-
-GitHub:
-https://github.com/Vlada658
