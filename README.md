@@ -39,14 +39,12 @@ Junior QA Engineer.
 Подготовлены:
 - Чек-листы;
 - Тест-кейсы;
-- Отчет о тестировании;
 - позитивные и негативные сценарии;
 - тестовые данные.
 
 ### Материалы:
 - [Чек-листы](./test-documentation/checklist.md)
 - [Тест-кейсы](./test-documentation/test-cases.pdf)
-- [Отчёт о тестировании](./test-documentation/test-execution-report.md)
 
 ---
 
@@ -73,9 +71,6 @@ Junior QA Engineer.
 - проверка структуры данных;
 - проверка времени ответа;
 - работа с переменными окружения.
-
-### Материалы:
-- [REST API](./api-testing/rest-api.md)
 - 
 
 ### Postman Collection:
@@ -99,18 +94,6 @@ Junior QA Engineer.
 
 ---
 
-# Инструменты и технологии
-
-| Категория | Инструменты |
-|---|---|
-| API тестирование | Postman, Swagger,  |
-| База данных | MySQL |
-| Browser Tools | Chrome DevTools, Charles Proxy |
-| Баг-трекинг | Jira |
-| Документация | Markdown |
-
-
----
 
 # Результаты проекта
 
