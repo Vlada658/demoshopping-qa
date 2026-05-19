@@ -38,14 +38,14 @@ Junior QA Engineer.
 
 Подготовлены:
 - Чек-листы;
-- Тест кейсы;
+- Тест-кейсы;
 - Отчет о тестировании;
 - позитивные и негативные сценарии;
 - тестовые данные.
 
 ### Материалы:
 - [Чек-листы](./test-documentation/checklist.md)
-- [Тесткейсы](./test-documentation/test-cases.pdf)
+- [Тест-кейсы](./test-documentation/test-cases.pdf)
 - [Отчёт о тестировании](./test-documentation/test-execution-report.md)
 
 ---
