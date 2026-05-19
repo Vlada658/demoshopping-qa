@@ -29,6 +29,9 @@ Junior QA Engineer.
 - тестирование базы данных;
 - оформление баг-репортов;
 - проверка бизнес-логики приложения.
+  
+
+[Описание проекта](./requirements)
 
 ---
 
@@ -74,6 +77,7 @@ Junior QA Engineer.
 - 
 
 ### Postman Collection:
+
 - https://www.postman.com/interstellar-star-567784/s-workspace/collection/83vv6ux/demoshopping?action=share&creator=45367901
 
 ---
