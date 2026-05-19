@@ -45,7 +45,7 @@ Junior QA Engineer.
 
 ### Материалы:
 - [Чек-листы](./test-documentation/checklist.md)
-- [Тесткейсы](./test-documentation/test-cases.md)
+- [Тесткейсы](./test-documentation/test-cases.pdf)
 - [Отчёт о тестировании](./test-documentation/test-execution-report.md)
 
 ---
