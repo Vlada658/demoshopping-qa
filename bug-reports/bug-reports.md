@@ -233,6 +233,10 @@ High
 ## Priority
 
 High
+## Скриншот
+
+![Каталог: ошибка ](bug-reports/screenshots/login-form-fields-english-localization.png)
+
 
 </details>
 
