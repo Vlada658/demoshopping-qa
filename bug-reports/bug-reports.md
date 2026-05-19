@@ -235,7 +235,7 @@ High
 High
 ## Скриншот
 
-![Каталог: ошибка ](screenshots/login-form-fields-english-localization.png)
+![Каталог: ошибка ](screenshots/catalog-products-count-5-instead-of-6.png)
 
 
 </details>
@@ -779,7 +779,7 @@ Low
 Medium
 ## Скриншот
 
-![Кнопка удаления товара на английском языке](./screenshots/payment-delete-button-english-text.png)
+![Кнопка удаления товара на английском языке](./screenshots/payment-delete-button-english-text.jpg)
 
 </details>
 
@@ -844,5 +844,5 @@ Medium
 Medium
 ## Скриншот
 
-![История заказов: некорректные данные доставки](./screenshots/order-history-delivery-data-mismatch.png)
+![История заказов: некорректные данные доставки](./screenshots/order-history-delivery-data-mismatch.jpg)
 </details>
