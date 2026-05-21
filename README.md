@@ -94,7 +94,7 @@ Junior QA Engineer.
 
 ### Материалы:
 - [SQL Queries](./JOIN-Queries)
-- [SQL Queries](./SELECT Queries)
+- [SQL Queries](./SELECT-Queries)
 
 ---
 
