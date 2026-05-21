@@ -31,7 +31,7 @@ Junior QA Engineer.
 - проверка бизнес-логики приложения.
   
 
-[Описание проекта](./requirements)
+[Описание проекта](./requirements.md)
 
 ---
 
