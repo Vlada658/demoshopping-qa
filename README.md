@@ -93,8 +93,8 @@ Junior QA Engineer.
 - проверка данных после пользовательских действий.
 
 ### Материалы:
-- [SQL Queries](./database-testing/sql-queries.sql)
-- [Проверка данных](./database-testing/database-validation.md)
+- [SQL Queries](./JOIN-Queries)
+- [SQL Queries](./SELECT Queries)
 
 ---
 
